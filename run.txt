@@ -1,0 +1,2 @@
+ g++ -std=c++17 -o program entry.cpp evaluator.cpp exprtreenode.cpp main.cpp symtable.cpp ulimitedint.cpp ulimitedrational.cpp
+ ./program
